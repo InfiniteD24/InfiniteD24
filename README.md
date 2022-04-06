@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/deebuilds" target="blank"><img src="https://img.shields.io/twitter/follow/deebuilds?logo=twitter&style=for-the-badge" alt="deebuilds" /></a> </p>
 
-- 🔭 I’m currently working on **migrating a monolithic application to containers**
+- 🔭 I’m currently working on **migrating a monolithic application to containers, as well as **
 
-- 🌱 I’m currently learning **Docker, Lxc, Web3**
+- 🌱 I’m currently learning **Docker, Lxc, Web3, Golang, and Python**
 
-- 👯 I’m looking to collaborate on **Open-Source, documentation,**
+- 👯 I’m looking to collaborate on **Open-Source projects, documentation, and**
 
-- 🤝 I’m looking for help with **Golang, Python**
+- 🤝 I’m looking for help with **Golang, Python, and Gen2 RPA**
 
 - 💬 Ask me about **my homelab, Bash, Intelligent Automation,and Monitoring**
 
