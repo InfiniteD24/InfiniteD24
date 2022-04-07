@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/deebuilds" target="blank"><img src="https://img.shields.io/twitter/follow/deebuilds?logo=twitter&style=for-the-badge" alt="deebuilds" /></a> </p>
 
-- 🔭 I’m currently working on **exploring proxmox on Arm64 and AMD64, also working on creating my own bots(twitter,solar postion) using the robotframework **
+- 🔭 I’m currently working on **exploring Proxmox on Arm64 and AMD64, also working on standing up a Kubernetes cluster with nodes such as (Nextcloud, Plex, Ansible, Foreman,Zabbix, LibreNMS) **
 
 - 🌱 I’m currently learning **Docker, Lxc, Web3, Golang, and Python**
 
 - 👯 I’m looking to collaborate on **Open-Source projects, documentation, and microservice creation**
 
-- 🤝 I’m looking for help with **Golang, Python, and Gen2 RPA**
+- 🤝 I’m looking for help with **Golang, Networking(Ingress/Egress) and Gen2 RPA**
 
 - 💬 Ask me about **My homelab, Bash, Intelligent Automation, ITSM, and Monitoring**
 
