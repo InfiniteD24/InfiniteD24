@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **d.wright.it@gmail.com**
 
-- ⚡ Fun fact **I enjoy troubleshooting issues. I find that I lose track of time often while installing and building environments or working on my army of Pi's**
+- ⚡ Fun fact **I enjoy building and scaling environments. I find that I lose track of time often while validating and troubleshooting nodes/clusters.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
