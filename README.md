@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/deebuilds" target="blank"><img src="https://img.shields.io/twitter/follow/deebuilds?logo=twitter&style=for-the-badge" alt="deebuilds" /></a> </p>
 
-- 🔭 I’m currently working on **exploring Proxmox on Arm64 and AMD64, also working on standing up a Kubernetes cluster with nodes such as (Nextcloud, Plex, Ansible, Foreman,Zabbix, LibreNMS) **
+- 🔭 I’m currently working on **exploring Proxmox on Arm64 and AMD64, also working on standing up a Kubernetes cluster with nodes such as (Nextcloud, Plex, Ansible, Foreman,Zabbix, LibreNMS)**
 
 - 🌱 I’m currently learning **Docker, Lxc, Web3, Golang, and Python**
 
