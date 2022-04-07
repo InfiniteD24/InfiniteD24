@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Golang, Networking(Ingress/Egress) and Gen2 RPA**
 
-- 💬 Ask me about **My homelab, Bash, Intelligent Automation, ITSM, and Monitoring**
+- 💬 Ask me about **Containers, Bash, Intelligent Automation, ITSM, and Monitoring**
 
 - 📫 How to reach me **d.wright.it@gmail.com**
 
