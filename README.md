@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/deebuilds" target="blank"><img src="https://img.shields.io/twitter/follow/deebuilds?logo=twitter&style=for-the-badge" alt="deebuilds" /></a> </p>
 
-- 🔭 I’m currently working on **migrating a monolithic application to containers, as well as **
+- 🔭 I’m currently working on **exploring proxmox on Arm64 and AMD64, also working on creating my own bots(twitter,solar postion) using the robotframework **
 
 - 🌱 I’m currently learning **Docker, Lxc, Web3, Golang, and Python**
 
-- 👯 I’m looking to collaborate on **Open-Source projects, documentation, and**
+- 👯 I’m looking to collaborate on **Open-Source projects, documentation, and microservice creation**
 
 - 🤝 I’m looking for help with **Golang, Python, and Gen2 RPA**
 
-- 💬 Ask me about **my homelab, Bash, Intelligent Automation,and Monitoring**
+- 💬 Ask me about **My homelab, Bash, Intelligent Automation, ITSM, and Monitoring**
 
 - 📫 How to reach me **d.wright.it@gmail.com**
 
